@@ -3,6 +3,7 @@ Incase you want to run this on a linux server, follow the following instructions
 
 1. Run `docker-compose up`
 2. Import sql file (abc.sql) into the Database
+3. Run `composer install`
 
 ABC TASK DETAIL
 
