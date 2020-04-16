@@ -1,0 +1,24 @@
+footer {
+    margin-top: 150px;
+}
+
+.main-content {
+    margin-top: 20px;
+}
+
+section {
+    margin-top: 20px;
+}
+
+.star-rating {
+    line-height:32px;
+    font-size:1.25em;
+  }
+  
+.star-rating .fa-star {
+    color: yellow;
+}
+
+.do-not-show {
+    display: none;
+}
